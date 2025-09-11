@@ -90,7 +90,7 @@ function Home({ homeRef }) {
             </div>
             <br />
             <p ref={text3} className="text-1xl md:text-md text-justify">
-              Hello, I'm Shivam Kumar, a BCA student at Delhi Skill and Entrepreneurship University, specializing in the MERN stack. As I progress through my third year, I'm dedicated to mastering MongoDB, Express.js, React, and Node.js. My focus is on developing high-quality, visually compelling web applications. I'm passionate about leveraging technology to create impactful solutions and am constantly seeking new opportunities to grow and refine my skills.
+             Hello, I'm Shivam Kumar, a Full Stack Developer. I have completed my Bachelor's in Computer Applications (BCA) from Delhi Skill and Entrepreneurship University and I am currently pursuing my Master's in Computer Applications (MCA) at IGNOU. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js) and focus on building high-quality, visually compelling, and user-friendly web applications. I'm passionate about using technology to create impactful solutions and continuously seek opportunities to learn and grow.
             </p>
             <br />
             {/* Social media icons */}
